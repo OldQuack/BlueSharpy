@@ -8,4 +8,4 @@ const avDogsSchema = mongoose.Schema({
   gender: Number,
 });
 
-module.exports = mongoose.model("AvDogss", avDogsSchema);
+module.exports = mongoose.model("AvDogs", avDogsSchema);
