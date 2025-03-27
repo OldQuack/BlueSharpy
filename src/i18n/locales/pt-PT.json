@@ -1,0 +1,138 @@
+{
+  "headers": {
+    "home": "Início",
+    "dogs": "Cães Disponíveis",
+    "adoption": "Processo de Adoção",
+    "health": "Saúde e Garantias",
+    "testimonials": "Testemunhos",
+    "about": "Sobre Nós",
+    "info": "Informações",
+    "faqs": "Perguntas Frequentes",
+    "contact": "Contactos"
+  },
+  "common": {
+    "languages": {
+      "title": "Idioma",
+      "pt": "Português",
+      "en": "Inglês",
+      "es": "Espanhol"
+    }
+  },
+  "pages": {
+    "available-dogs": {
+      "color": {
+        "title": "Cor",
+        "white": "Branco",
+        "blue": "Azul",
+        "grey": "Cinzento",
+        "brown": "Castanho",
+        "black": "Preto",
+        "fawn": "Fulvo",
+        "red": "Vermelho",
+        "cream": "Creme",
+        "brindle": "Tigrado",
+        "chocolate": "Chocolate"
+      },
+      "sex": "Sexo",
+      "weight": "Peso",
+      "age": "Idade",
+      "months": "Meses"
+    },
+    "about-us": {
+      "title": "Sobre Nós",
+      "subtitle": "Criadores apaixonados de cães Shar Pei com dedicação e amor.",
+      "philosophy": {
+        "title": "A Nossa Filosofia de Criação",
+        "text": "Acreditamos numa criação responsável e ética, garantindo que cada cachorro cresça num ambiente amoroso e bem socializado."
+      },
+      "history": {
+        "title": "A Nossa História",
+        "text": "A nossa jornada começou há vários anos com uma profunda admiração pela raça Shar Pei. Ao longo do tempo, refinámos as nossas técnicas de criação para priorizar a saúde, o temperamento e a estrutura."
+      },
+      "team": {
+        "title": "Conheça a Nossa Equipa",
+        "breeder": "Criador",
+        "vet": "Veterinário",
+        "trainer": "Treinador"
+      }
+    },
+    "health": {
+      "title": "Saúde & Garantias",
+      "examinations": {
+        "title": "Exames de Saúde",
+        "vet": "Exames veterinários completos antes da adoção.",
+        "diseases": "Triagem para doenças hereditárias e infecciosas comuns.",
+        "deworming": "Desparasitação regular e tratamentos preventivos contra parasitas."
+      },
+      "vaccination": {
+        "title": "Vacinação",
+        "description": "Todos os cachorros recebem vacinas atualizadas conforme as diretrizes veterinárias."
+      },
+      "guarantees": {
+        "title": "Garantias de Saúde",
+        "description": "Oferecemos uma garantia de saúde que cobre doenças hereditárias e a adaptação inicial."
+      },
+      "returns": {
+        "title": "Devoluções & Políticas",
+        "description": "Caso surjam problemas de saúde inesperados, oferecemos suporte e possíveis devoluções."
+      }
+    },
+    "testimonials": {
+      "title": "Histórias & Depoimentos"
+    },
+    "adoption": {
+      "title": "Processo de Adoção",
+      "steps": {
+        "research": {
+          "title": "Pesquisa",
+          "description": "Informe-se sobre a raça e veja se ela se adequa ao seu estilo de vida."
+        },
+        "application": {
+          "title": "Candidatura",
+          "description": "Preencha um formulário de adoção para iniciar o processo."
+        },
+        "interview": {
+          "title": "Entrevista",
+          "description": "Entraremos em contacto consigo para uma breve entrevista."
+        },
+        "home_visit": {
+          "title": "Visita Domiciliária",
+          "description": "Uma visita à sua casa pode ser necessária para garantir um ambiente seguro."
+        },
+        "approval": {
+          "title": "Aprovação",
+          "description": "Se for aprovado, será notificado para prosseguir."
+        },
+        "meet_dog": {
+          "title": "Conhecer o Cão",
+          "description": "Marque uma visita para conhecer o seu futuro companheiro."
+        },
+        "finalize": {
+          "title": "Finalização & Bem-vindo a Casa",
+          "description": "Conclua a documentação e leve o seu novo amigo para casa!"
+        }
+      }
+    },
+    "faqs-page": {
+      "title": "Perguntas Frequentes",
+      "faqs": {
+        "q1": "Como posso adotar um cachorro?",
+        "a1": "Para adotar, visite a nossa página 'Cães Disponíveis' e clique em 'Adotar' para iniciar o processo.",
+        "q2": "Qual é o processo de adoção?",
+        "a2": "Depois de escolher um cachorro, preencha um formulário de adoção. A nossa equipa analisará e entrará em contacto para os próximos passos.",
+        "q3": "Os cachorros são vacinados?",
+        "a3": "Sim, todos os nossos cachorros recebem as vacinas obrigatórias e um check-up veterinário antes da adoção.",
+        "q4": "Posso conhecer o cachorro antes de adotar?",
+        "a4": "Sim! Incentivamos visitas para conhecer o cachorro e garantir que seja uma boa escolha antes de finalizar a adoção."
+      }
+    },
+    "contacts-page": {
+      "title": "Contacte-nos",
+      "name": "Nome:",
+      "email": "E-mail:",
+      "phone": "Telefone:",
+      "message": "Mensagem:",
+      "send-message": "Enviar Mensagem"
+    }
+  }
+}

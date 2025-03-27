@@ -1,0 +1,138 @@
+{
+  "headers": {
+    "home": "Home",
+    "dogs": "Available Dogs",
+    "adoption": "Adoption Process",
+    "health": "Health & Guarantees",
+    "testimonials": "Testimonials",
+    "about": "About Us",
+    "info": "Information",
+    "faqs": "FAQs",
+    "contact": "Contact"
+  },
+  "common": {
+    "languages": {
+      "title": "Language",
+      "pt": "Portuguese",
+      "en": "English",
+      "es": "Spanish"
+    }
+  },
+  "pages": {
+    "available-dogs": {
+      "color": {
+        "title": "Color",
+        "white": "White",
+        "blue": "Blue",
+        "grey": "Grey",
+        "brown": "Brown",
+        "black": "Black",
+        "fawn": "Fawn",
+        "red": "Red",
+        "cream": "Cream",
+        "brindle": "Brindle",
+        "chocolate": "Chocolate"
+      },
+      "sex": "Sex",
+      "weight": "Weight",
+      "age": "Age",
+      "months": "Months"
+    },
+    "about-us": {
+      "title": "About Us",
+      "subtitle": "Passionate breeders of Shar Pei puppies with love and dedication.",
+      "philosophy": {
+        "title": "Our Breeding Philosophy",
+        "text": "We believe in responsible and ethical breeding, ensuring that every puppy grows up in a loving and well-socialized environment."
+      },
+      "history": {
+        "title": "Our History",
+        "text": "Our journey began years ago with a deep admiration for the Shar Pei breed. Over time, we have refined our breeding techniques to prioritize health, temperament, and structure."
+      },
+      "team": {
+        "title": "Meet Our Team",
+        "breeder": "Breeder",
+        "vet": "Veterinarian",
+        "trainer": "Trainer"
+      }
+    },
+    "health": {
+      "title": "Health & Guarantees",
+      "examinations": {
+        "title": "Health Examinations",
+        "vet": "Comprehensive veterinary check-ups before adoption.",
+        "diseases": "Screening for common hereditary and infectious diseases.",
+        "deworming": "Regular deworming and parasite prevention treatments."
+      },
+      "vaccination": {
+        "title": "Vaccinations",
+        "description": "All puppies receive up-to-date vaccinations following veterinary guidelines."
+      },
+      "guarantees": {
+        "title": "Health Guarantees",
+        "description": "We provide a health guarantee covering hereditary diseases and initial adaptation."
+      },
+      "returns": {
+        "title": "Returns & Policies",
+        "description": "If you experience unforeseen health issues, we offer support and possible returns."
+      }
+    },
+    "testimonials": {
+      "title": "Owner Stories & Testimonials"
+    },
+    "adoption": {
+      "title": "Adoption Process",
+      "steps": {
+        "research": {
+          "title": "Research",
+          "description": "Learn about the breed and ensure it's a good fit for your lifestyle."
+        },
+        "application": {
+          "title": "Application",
+          "description": "Fill out an adoption application to start the process."
+        },
+        "interview": {
+          "title": "Interview",
+          "description": "We will contact you for a short interview."
+        },
+        "home_visit": {
+          "title": "Home Visit",
+          "description": "A home check may be required to ensure a safe environment."
+        },
+        "approval": {
+          "title": "Approval",
+          "description": "Once approved, you will be notified to proceed."
+        },
+        "meet_dog": {
+          "title": "Meet the Dog",
+          "description": "Schedule a visit to meet your potential new pet."
+        },
+        "finalize": {
+          "title": "Finalize & Welcome Home",
+          "description": "Complete the paperwork and bring your new companion home!"
+        }
+      }
+    },
+    "faqs-page": {
+      "title": "Frequently Asked Questions",
+      "faqs": {
+        "q1": "How do I adopt a dog?",
+        "a1": "To adopt, visit our 'Available Dogs' page and click 'Adopt' to start the process.",
+        "q2": "What is the adoption process?",
+        "a2": "After selecting a dog, fill out an adoption application. Our team will review it and contact you for the next steps.",
+        "q3": "Are the dogs vaccinated?",
+        "a3": "Yes, all our dogs receive vaccinations and a health check before adoption.",
+        "q4": "Can I meet the dog before adopting?",
+        "a4": "Yes! We encourage visits to meet the dog and ensure a good match before finalizing adoption."
+      }
+    },
+    "contacts-page": {
+      "title": "Contact Us",
+      "name": "Name: ",
+      "email": "Email: ",
+      "phone": "Phone: ",
+      "message": "Message: ",
+      "send-message": "Send Message"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_AATLAS_PW": "IiF4EuOxl7uEeUfO",
+    "MONGO_DB_NAME": "test",
+    "JWT_SECRET": "bb42cce7e9539f8984ab480bffd3a05ff6d828145b5522bd18b5744c3b45098d2c4a538978a28940cb888bf7eb0794d7b80b22b3900bd6dafaa2921312452cdf",
+    "PORT": "3000"
+  }
+}
